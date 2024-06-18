@@ -4,7 +4,7 @@ let usuarios = [{
     idade: 29,
 }, {
     nome: "Maria",
-    email: "Maria@gmail.com",
+    email: "Maria@gmail.com", 
     idade: 38,
 
 }]
